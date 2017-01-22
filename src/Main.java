@@ -1,4 +1,3 @@
-import java.awt.Color;
 import java.io.IOException;
 
 public class Main {
